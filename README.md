@@ -1,1 +1,1 @@
-# IAM-Fashion-Dataset
+# IAM-Fashion-Dataset ML implementation
